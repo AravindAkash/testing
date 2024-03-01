@@ -3,3 +3,6 @@ c=a+b
 print(c)
 
 add(5,10)
+
+
+print("hello everyone")
